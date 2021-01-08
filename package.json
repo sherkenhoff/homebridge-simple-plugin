@@ -1,5 +1,4 @@
 {
-  "private": true,
   "displayName": "Simple Plugin",
   "name": "@sherkenhoff/homebridge-simple-plugin",
   "version": "1.0.0",
