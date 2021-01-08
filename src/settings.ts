@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 's0x7c3';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = '@sherkenhoff/homebridge-simple-plugin';
+export const PLUGIN_NAME = 'homebridge-simple-plugin';
